@@ -72,6 +72,8 @@ Browser akan menampilkan hasil interpretasi dari dokumen HTML.
 
 Screenshot Hasil Langkah 1:
 
+
+<img width="1576" height="792" alt="Hasil 1" src="https://github.com/user-attachments/assets/8f1c7887-b0ef-485a-8cd8-de4ff1ac4940" />
 [Ganti teks ini dengan screenshot tampilan paragraf yang memiliki jarak antar paragraf di browser]
 
 Langkah 2: Menambahkan Judul (Heading)
